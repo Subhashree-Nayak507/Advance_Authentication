@@ -1,6 +1,6 @@
 # Advanced Authentication
 
-This project provides an advanced authentication system that allows users to sign up, log in, verify their email addresses, and reset their passwords securely.
+This project provides an advanced authentication system that allows users to sign up, log in, verify their email addresses, and reset their passwords securely using Jsonwebtoken.
 
 ## Features
 
